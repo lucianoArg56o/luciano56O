@@ -1,14 +1,13 @@
 msgid "init_menu.welcome"
-msgstr "Bienvenido a LibreTaxi 2.0!"
+msgstr "🐶🚕 ¡Hola! Bienvenido a Mascotafilos Posadas**.\n\nSomos el servicio especializado en viajes con perros y gatos en Posadas.\n\nViajás tranquilo sabiendo que tu mascota va cómoda. Aplicamos una tarifa especial (+20%) por limpieza y cuidado garantizado."
 
 msgid "ask_location_menu.click_next"
-msgstr "Pulse \"Siguiente\" (desde teléfono celular) para compartir su ubicación. O puede 📎 Clip -> 📍 Ubicación para mejor privacidad."
-
+msgstr ""Para buscarte el conductor más cercano, presioná \"Siguiente\" o enviá tu ubicación por el 📎 Clip -> 📍 Ubicación."
 msgid "ask_location_menu.next_button"
 msgstr "Siguiente"
 
 msgid "feed_menu.greeting"
-msgstr "Encontraras 🚗 conductores y 👋 pasajeros aquí."
+msgstr "Aquí verás a los 🚗 conductores Pet-Friendly y 👋 pasajeros con mascotas."
 
 msgid "feed_menu.search_button"
 msgstr "Encontrar 🚗 o 👋"
@@ -34,21 +33,21 @@ msgstr "Copiar & pegar texto que empieza con 🚗 (conductor) o 👋 (pasajero) 
 
 msgid "post_menu.driver_example"
 msgstr ""
-"🚗 Viaje ofrecido\n"
-"Desde: foobar\n"
-"Hasta: Aerpuerto\n"
+"🚗 Viaje ofrecido (Pet-Friendly)\n"
+"Desde: Villa Sarita\n"
+"Hasta: Costanera\n"
 "Fecha: hoy\n"
 "Horario: ahora\n"
-"Pago: efectivo, venmo"
+"Pago: efectivo, transferencia"
 
 msgid "post_menu.passenger_example"
 msgstr ""
-"👋 Viaje deseado\n"
-"Desde: foobar, 42\n"
-"Hasta: El centro\n"
+"👋 Viaje con mascota\n"
+"Desde: Centro\n"
+"Hasta: Veterinaria (Centro)\n"
 "Fecha: hoy\n"
-"Horario: ahora\n"
-"Pasajero: 1"
+"Horario: 16:00\n"
+"Mascota: 1 perro mediano"
 
 # Here is how we check if the user just copied the text or changed it. It's just a string from the previous postings.
 # Note how we have "foobar" in both postings above. It's the magic string, non-existent address, you should think
@@ -99,4 +98,4 @@ msgid "validation.min_lines"
 msgstr "🚫 Al menos 5 líneas por favor (tienes %d)"
 
 msgid "main.welcome_link"
-msgstr "https://telegra.ph/LibreTaxi-20---te-va-a-enamorar-02-09"
+msgstr "Servicio especializado en transporte de mascotas en Posadas, Misiones."
